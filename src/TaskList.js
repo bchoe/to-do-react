@@ -29,6 +29,11 @@ class TaskList extends Component {
                 'period': 'PM',
                 'activity_title': 'Do DB Backups',
                 'activity_description': 'Related to upcoming server migration'
+            }, {
+                'time': '9',
+                'period': 'PM',
+                'activity_title': 'Do Some Earth downs',
+                'activity_description': 'Pyramid'
             }
         ];
 
